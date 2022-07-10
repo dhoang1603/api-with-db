@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62cb34286ffb4920225c6c01"
+  },
+  "breed": "Rottweiler",
+  "size": "Large",
+  "about": "Strong, intelligent and protective German drover’s dog",
+  "avatar_url": "https://freepikpsd.com/file/2019/10/dog-logo-png-2-Transparent-Images.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cb39897ace13704e0363f5"
+  },
+  "breed": "Akita",
+  "size": "Large",
+  "about": "Japan’s original courageous bear looking breed",
+  "avatar_url": "https://freepikpsd.com/file/2019/10/dog-logo-png-2-Transparent-Images.png",
+  "__v": 0
+}]
